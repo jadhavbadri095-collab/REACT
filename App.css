@@ -1,0 +1,10 @@
+.app-shell {
+  background-color: #0e0c0c;
+}
+.card-image {
+  display: block;
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  border-radius: 12px;
+}
